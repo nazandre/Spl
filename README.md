@@ -1,7 +1,7 @@
 Spl
 ===
 
-This repository contains a translator from Shakespeare Programming Language (SPL) to C, and a some examples of SPL programs.
+This repository contains a translator from Shakespeare Programming Language (SPL) to C, and some examples of SPL programs.
 
 ## Shakespeare Programming Language (SPL)
 
